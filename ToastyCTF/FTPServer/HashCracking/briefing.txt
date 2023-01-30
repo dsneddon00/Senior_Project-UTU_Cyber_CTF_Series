@@ -1,0 +1,19 @@
+<AUDIO TRANSCRIPT>
+
+Hello hacker,
+
+At the very least, you've broken into the FTP Server. Kudos to you.
+
+Anyways, I managed to intercept some wireless traffic and I have a password hash of one of the users on the target.
+
+To be specific, his name is Jerry Jam. A colleague of Toby Toast's and a master chemist of illegal jam.
+
+I know that Jerry's Rockyou account was breached way back, do with that information what you will. 
+
+The hash will be stored in a text file. I need you to crack it.
+
+Once you have cracked it, try using it to break into the main server.
+
+Good luck and don't be a script kiddie.
+
+<END OF TRANSCRIPT>

@@ -1,0 +1,15 @@
+<AUDIO TRANSCRIPT>
+
+Hello hacker,
+
+If you've made it this far, then you've already broken into the FTP Server. Congratulations, however we are still not done.
+
+Before you is a .wav file containing what sounds like radio signals. 
+
+Seems like our friend Toby has encoding something secret inside. He might be trying to throw us off.
+
+Decypher the data behind the signals. Uncover what he's trying to hide.
+
+Good luck and don't be a script kiddie.
+
+<END OF TRANSCRIPT>

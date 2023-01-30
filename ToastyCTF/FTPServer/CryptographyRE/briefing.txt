@@ -1,0 +1,14 @@
+
+<AUDIO TRANSCRIPT>
+
+Hello hacker,
+
+Clever work getting into the FTP server. But we have work to do.
+
+Looks like Toby Toast has made an encryption program on his server. It looks seriously vulnerable.
+
+Your task will be to reverse engineer it and decypher any messages he's been sending with it.
+
+Good luck and don't be a script kiddie.
+
+<END OF TRANSCRIPT>
