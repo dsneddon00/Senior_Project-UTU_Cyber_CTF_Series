@@ -7,7 +7,7 @@ Orange CTF is a sequel to Toasty CTF intended for the club UTU Cyber. This repos
 
 ## Setup
 
-In order to get the file upload vulnerability to work properly, be sure to set the permissions to allow any writing and executing in both the uploads directory as well as the actual contact.php script
+In order to get the file upload vulnerability to work properly, be sure to set the permissions to allow any writing and executing in both the uploads directory as well as the actual contact.php script Be sure to put the file in the /var/www/html/ directory so apache2 can run the server and the php files. (:
 
 ## Intial RCE
 
