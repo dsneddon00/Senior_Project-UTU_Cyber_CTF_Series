@@ -32,14 +32,19 @@ if (isset($_POST["submit"])){
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
+    <link rel="stylesheet" type="text/css" href="css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
     <div class="first">
-        <div class="main-div">
+        <div class="contact-form">
             <form action="" method="POST" enctype="multipart/form-data">
-                <p>Upload a file:</p>
+                <h2>Contact Us:</h2>
+                <h3>Message us:</h3>
+                <input type="text" name="textSubmit" class="textSubmit">
+                <h3>Upload image:</h3>
                 <input type="file" name="fileUpload" class="fileUpload">
-                <input type="submit" value="Upload" name="submit">    
+                <input type="submit" value="Submit" name="submit">    
             </form>
         </div>
     </div>
