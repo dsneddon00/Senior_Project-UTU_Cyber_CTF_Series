@@ -1,0 +1,17 @@
+I guess the big Orange is moving along with his plan to do some sort of "cloud" solution. Even as his right hand man, I'm not even alowed to know what this "cloud" solution is.
+
+I mean, come on, it can't be that bad. Every startup, big and small, has "cloud innovations" or something. Then they pay their interns like $12 an hour and try to pawn off new graduates for almost that much.
+
+Speaking of money, I noticed that the money stopped coming from TobyToast. I wonder what happened. His site went cold a few days ago. He must have gotten hacked... Spooky!
+
+Speaking of hackers, I know the best tip for securing yourself is to never use the SAME PASSWORD TWICE! So I don't!
+
+Fortunately I base all of mine on citrus fruit! This way, even if a hacker get's one of my passwords, they sure can't get all the rest!
+
+I even made my main password uncrackable! That being said, it's hard to remember the rest, so I started using ssh keys. Those help me log in without a password. (Though I do need a passphrase to use the key, so I make those based on my favorite citrus fruits so it's easy to remember!)
+
+Anyways, I gotta go back and work on our website. I hope people start sending us messages through our contact page! Boss says I'll only get paid once we start getting attention!
+
+Anyways,
+
+Citrus Cicero out!

@@ -1,0 +1,8 @@
+SHOPPING LIST
+        - FlipperZero
+        - RaspberryPi
+        - A New T-shirt
+        - 1 Lemon
+        - 2 Limes
+        - 4 Oranges
+        - 5 Grapefruits
