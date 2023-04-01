@@ -21,7 +21,7 @@ Jex will have a backdoor onto the machine that will allow you to gain initial ac
 - Molly-Milk: Queen of Marketing and Grand Oracle of the Cult of Nano. Secret crush on Chad-Cherry. 
 - www-data: apache service account.
 - Sam-Sprinkles: Backend developer of the main site. 
-- Bob-Boba: Head of QA. Escalate to his privleges from Jex's backdoor.
+- Bob-Boba: Head of financies. Escalate to his privleges from Jex's backdoor.
 - NotSus (Jex): Backdoor account on the system. 
 
 After initial access is gained, privileges will be escalated through gaining a total of three "password segments"
