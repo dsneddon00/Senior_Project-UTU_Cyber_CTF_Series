@@ -75,8 +75,7 @@
     <!-- Fatcs Section -->
     <section class="has-bg-img bg-img-2">
     <div class="container text-center">
-        <h6 class="section-subtitle">We Are Awesome</h6>
-        <h6 class="section-title mb-6">Some Fun Fucts</h6>
+        <h6 class="section-title mb-6">Fun Fucts</h6>
             <div class="widget-2">
                 <div class="widget-item">
                     <i class="ti-cup"></i>
@@ -100,8 +99,8 @@
     <!-- Portfolio section -->
     <section id="portfolio">
         <div class="container text-center">
-            <h6 class="section-subtitle">Our Awesome Works</h6>
-            <h6 class="section-title mb-5">Our Portfolio</h6>
+            <h6 class="section-subtitle">Tasty Icecream</h6>
+            <h6 class="section-title mb-5">Yummy Treats</h6>
             <div class="row">
                 <div class="col-sm-4">
                     <div class="img-wrapper">
@@ -160,10 +159,11 @@
         <div class="container text-center">
 
             <!-- Button trigger modal -->
-            <button type="button" class="btn btn-outline-primary play-control" data-toggle="modal" data-target="#exampleModalCenter">
+            <a href="https://www.youtube.com/shorts/dXTC3YEU7QM">
+            <button type="button" class="btn btn-outline-primary play-control" data-toggle="modal" data-target="https://www.youtube.com/shorts/dXTC3YEU7QM">
               <i class="ti-control-play" ></i>
-            </button>
-            <h6 class="section-title mt-4">See Our Intro Video</h6>
+            </button></a>
+            <h6 class="section-title mt-4">Meet Cherry Chad</h6>
 
         </div>
     </section>
