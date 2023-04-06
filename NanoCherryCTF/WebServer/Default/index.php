@@ -37,6 +37,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#testimonial">Testimonial</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="content.php">Ice Cream Facts</a>
+                    </li>
                 </ul>
             </div>
         </div>
