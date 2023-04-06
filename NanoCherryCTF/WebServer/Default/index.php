@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="themify-icons/css/themify-icons.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
-  </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
     
     <!-- Page Navigation -->
