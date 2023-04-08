@@ -33,6 +33,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#testimonial">Testimonial</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="login.php">Admin</a>
+                    </li>
                 </ul>
             </div>
         </div>

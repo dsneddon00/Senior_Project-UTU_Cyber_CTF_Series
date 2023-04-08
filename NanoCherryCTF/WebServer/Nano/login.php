@@ -17,8 +17,6 @@
     if (isset($_POST['submit'])) {
         $username = $_POST['username'];
         $password = $_POST['password'];
-
-        // Connect to sqlite3
         $db = new SQLite3('users.db');
 
         // Query user with given username
@@ -27,7 +25,6 @@
         $result = $stmt->execute();
 
         // allow for online password cracking via error validating
-
         if ($row = $result->fetchArray()) {
             // Verify password
             if ($password == $row['password']) {
@@ -37,12 +34,10 @@
                 header("Location: command.php");
                 exit();
             } else {
-                // Invalid password
-                $error = "Invalid password";
+                $error = "Bad password";
             }
         } else {
-            // User not found
-            $error = "User not found";
+            $error = "This user doesn't exist";
         }
     }
     ?>
@@ -83,7 +78,7 @@
                         <input type="password" id="password" name="password" required>
                     </div>
                     <div>
-                        <button type="submit" name="submit">Login</button>
+                        <button type="submit" name="submit" style="padding:5px; margin-top: 5px;">Login</button>
                     </div>
                 </form>
             </div>
