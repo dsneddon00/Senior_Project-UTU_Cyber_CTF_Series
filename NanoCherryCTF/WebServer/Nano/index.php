@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Cult of Nano</title>
     <link rel="stylesheet" href="themify-icons/css/themify-icons.css">
     <link rel="stylesheet" href="css/style.css">
-</head>
   </head>
   <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
     
