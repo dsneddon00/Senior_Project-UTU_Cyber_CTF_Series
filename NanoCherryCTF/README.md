@@ -34,3 +34,6 @@ After initial access is gained, privileges will be escalated through gaining a t
 
 ### Exploitation Path
 The user will access Sam-Sprinkles, Molly-Milk, and Bob-Boba to gain each password segment to access Chad-Cherry. Then they will use an exploitable nano binary to get to get to root.
+
+## Kill Switch
+The kill switch present on the machine was a malicious piece of code I wrote and obfuscated in bash. It bricks the machine by removing as many root directories as possible and attempts to write null bytes onto every file it can. It will render the machine useless upon being ran.
