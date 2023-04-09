@@ -4,4 +4,6 @@ From here, we should be able to hit Bob-Boba where it hurts! Could you find a wa
 
 Keep your's eyes peeled and don't be a script kiddie!
 
+Oh and by the way, if you found this and want to access this account over ssh use these credentials: notsus:dontbeascriptkiddie
+
 - Jex
