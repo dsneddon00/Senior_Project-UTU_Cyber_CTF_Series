@@ -10,7 +10,7 @@ if (isset($_POST["submit"])){
     $file_filetype = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
 
     // blacklist
-    if ($file_filetype == "php" || $file_filetype == "php2" || $file_filetype == "php3" || $file_filetype == "php4" || $file_filetype == "php5" || $file_filetype == "phtml"){
+    if ($file_filetype == "php" || $file_filetype == "php2" || $file_filetype == "php3" || $file_filetype == "php4" || $file_filetype == "php5"){
         $result = "PHP is forbidden! Nice try hacker!";
         $uploadOk = 0;
 
