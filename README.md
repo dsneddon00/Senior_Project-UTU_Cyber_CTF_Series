@@ -60,5 +60,5 @@ I have at least about 500 hours of total CTF experiance (I have commited myself 
 
 - Competitve Publishing through TryHackMe - The UTU Cyber CTF Series is currently under review to be admitted into TryHackMe’s competitive pool with almost 2 million users!
 - Enterprise Network - Future CTFs could be an entire Active Directory network simulating a full corporation utilizing several virtual machines. I am waiting to work with Active Directory professionally before I touch this.
-- IOT Hacking - I wish to create virtual machines based on (or ripped directly from) internet of things (IOT) smart devices, then fill them with flags and security challenges to make them into CTFs. [Inspired by this talk at DEF CON 23.] (https://www.youtube.com/watch?v=5CzURm7OpAA)
+- IOT Hacking - I wish to create virtual machines based on (or ripped directly from) internet of things (IOT) smart devices, then fill them with flags and security challenges to make them into CTFs. [Inspired by this talk at DEF CON 23.](https://www.youtube.com/watch?v=5CzURm7OpAA)
 
