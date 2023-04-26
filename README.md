@@ -7,12 +7,21 @@ The UTU Cyber CTF Series is a series of capture the flag games meant to provide 
 I encourage members of the community who wish to play these CTFs to administer self control in viewing the source code as it will have spoilers for how each vulnerability is exploited as well as the flags hidden within.
 
 You can play the machines using the following links:
+
+### TryHackMe
 - ToastyCTF: https://tryhackme.com/jr/toastyctf
 - OrangeCTF: https://tryhackme.com/jr/orangectf
 - NanoCherryCTF: https://tryhackme.com/jr/nanocherryctf
+### Raw Download
 - ToastyCTF: https://mega.nz/file/bAY2ECpJ#qBSClN7ihnqy-iSCrYhU5NVeW_2XPryRjuFgGfZu2f4
 - OrangeCTF: https://mega.nz/file/TFRgnK6Z#0rczvYq75RQS1ocnoXEYL_JQ5LuynHTrC3DZBdaCTeA
 - NanoCherryCTF: https://mega.nz/file/6UpmDQJT#K_iLqHLlLGeb1Fajf89hKEJNj8ugSDZTwG60_FH-HuE
+### Writeups Containing Full Solutions
+- ToastyCTF Official Writeup: https://medium.com/@dsneddon00/toastyctf-official-writeup-965144b78c3c
+- OrangeCTF Official Writeup: https://medium.com/@dsneddon00/orangectf-official-writeup-7742cd7c1c13
+- NanoCherryCTF Official Writeup: https://medium.com/@dsneddon00/nanocherryctf-official-writeup-a51d2fd9487
+### Local Setup Guide
+- Local Setup Guide: https://docs.google.com/document/d/1xOlGjG8mJHQHcUg8kawGf3Y7DzSAFu52df1nThDc-mQ/edit 
 
 ## Problem Facing
 
