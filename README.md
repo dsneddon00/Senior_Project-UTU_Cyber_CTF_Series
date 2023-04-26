@@ -23,6 +23,10 @@ You can play the machines using the following links:
 ### Local Setup Guide
 - Local Setup Guide: https://docs.google.com/document/d/1xOlGjG8mJHQHcUg8kawGf3Y7DzSAFu52df1nThDc-mQ/edit 
 
+## Project Defense
+
+My full project defense can be viewed here: https://docs.google.com/document/d/1r_D7HG_kc_oRraVqZ9dbEJFs_7r-8vejYKaVBlYG1nw/edit?usp=sharing
+
 ## Problem Facing
 
 Cyber crime has been and is only going to continue rising. [In 2022 alone, there were $6 trillion in damages from cyber crime and its predicted that 33 billion accounts will be breached in 2023.](https://www.getastra.com/blog/security-audit/cyber-crime-statistics/#:~:text=General%20Cyber%20Crime%20Statistics%201%20%246%20trillion%20%E2%80%93,earns%20cybercriminals%20%241.5%20trillion%20every%20year.%20More%20items) These are staggering statistics and should make anyone working with technology think twice about their actions, and yet that outside of the security world there is a "this will never happen to me" attitude. 
