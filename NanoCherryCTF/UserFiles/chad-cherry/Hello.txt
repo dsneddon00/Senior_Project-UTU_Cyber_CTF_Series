@@ -16,30 +16,22 @@ It wasn't until I saw the light when Sam showed me Nano. All of the commands are
 
 But in order to realize this dream, I've had to lie. To everyone.
 
-I only funded Toby's Toast so I could launder money through it. Then I forced all of them but Betty into horrible debt. But I'll get back to her in a moment.
+You see, I need a programmer to make the worm for me. Programmers cost money. And that's where Molly and Bob come in.
 
-I invested in Orange Brutus' company just so I could later have Sam develop a worm when they finished their "cloud solution" to enact my grand plan. 
+Molly is... Something else. She's a talented blackmailer and web designer. I know she likes me, but I've been using her. 
 
-In order to keep him and Cicero from snitching, I had Molly and Bob threaten and blackmail them until they were under my control.
+Truth is, I'm afraid of her. I'm afraid if she realizes that I've been manipulating her, she'll turn my life upside down. 
 
-But I went way too far. And Molly encouraged and aided me. Bob simply loved money.
+Even though I threaten, I know I can fire her for real. I'm just so... insecure...
 
-But Sam... While flawed, was still my best friend. He never did anything wrong.
+As far as that programmer goes, I told the team I found one. I guess I did, I even let him access my computer for a bit. I hope he didn't put any backdoors or anything...
 
-Molly always grew jealous of how I felt towards Betty. I know that they both look exactly like eachother, but Betty has a good heart, even if she is a bit querky.
+Maybe he's the one Molly was talking about, goes under that alias.
 
-She wouldn't hurt people like Molly does.
+Anyways, to whomever has access to this device now, I have one final request: gain root access and wipe this machine off the face of the earth. I'm too ashamed of how I've treated everyone to continue, especially Sam... he's too good of a friend.
 
-The many nights I spent in secret trying Betty's buttery snacks I'll always cherish. But I had to keep Molly around because she kept everyone in line, including me. Molly was the reason I had so much power.
+You can find the password to the root account in the .wav file. Whomever you are, if you're a smart enough hacker, you'll figure it out.
 
-Betty, I'm so sorry. I know how you feel about Toby and I'm sorry that I ruined his life, but to me, you were always a true friend. Just like Sam was too.
-
-Now, if this is Jex, or one of his hackers reading this... I beg you to end this now.
-
-There is a kill switch in root. I need you to hack into root and complete my final request before I go into hiding: run the bash script inside.
-
-It will destroy this server and effectively end the Cult of Nano... And the ice cream shop. Man, I'll miss the ice cream shop.
-
-Good luck. And as Jex says: "don't be a script kiddie".
+Good luck and as that one guy keeps saying: don't be a script kiddie.
 
 - Chad Cherry
