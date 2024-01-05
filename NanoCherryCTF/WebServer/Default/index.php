@@ -155,21 +155,20 @@
     </section>
     <!-- End of portfolio section -->
 
-
     <!-- Video Section -->
     <section class="has-bg-img py-lg">
         <div class="container text-center">
 
-            <!-- Button trigger modal -->
-            <a href="https://www.youtube.com/shorts/dXTC3YEU7QM">
-            <button type="button" class="btn btn-outline-primary play-control" data-toggle="modal" data-target="https://www.youtube.com/shorts/dXTC3YEU7QM">
-              <i class="ti-control-play" ></i>
-            </button></a>
-            <h6 class="section-title mt-4">Meet Cherry Chad</h6>
-
+            <!-- Video Modal -->
+                <h6 class="section-title mt-4">Meet Chad Cherry</h6>
+                <video width="360" height="640" controls style="border-radius: 5px;">
+                        <source src="images/welcome.mp4" type="video/mp4">
+                        Your browser doesn't support the video tag. 
+                </video>
         </div>
     </section>
     <!-- End of Video Section -->
+
 
     <!-- Team Section -->
     <section id="team">
